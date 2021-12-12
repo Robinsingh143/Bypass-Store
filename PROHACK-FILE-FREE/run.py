@@ -64,4 +64,4 @@ def home(): #main menu
         os.system("exit")
 
 if __name__ == '__main__':
-    home(
+    home()
